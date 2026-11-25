@@ -1,0 +1,16 @@
+{
+	"name": "adf-Adv-Works02",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true,
+			"isExplicitlySet": false
+		}
+	},
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c7e7552-11b6-476a-972d-8c0da9620955",
+		"tenantId": "cbdd2a6c-5e2c-483d-b71f-3ab426d13646"
+	}
+}
